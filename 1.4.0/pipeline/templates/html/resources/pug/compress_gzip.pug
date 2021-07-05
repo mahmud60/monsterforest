@@ -1,0 +1,23 @@
+script
+    include ../js/jszip.min.js
+
+script.
+    var decompress = ( function( asset, type ) {
+        return JSZip.loadAsync( asset, { base64: true } ).then( function( zip ) {
+            return zip.files[ 'content' ].async( type );
+        } );
+    } );
+
+    var decompressArrayBuffer = ( function( asset ) {
+        return decompress( asset, 'arraybuffer' );
+    } );
+
+    var decompressString = ( function( asset ) {
+        return decompress( asset, 'string' );
+    } );
+
+    window.addEventListener( 'DOMContentLoaded', function() {
+        Promise.all( window._compressedAssets ).then( function() {
+            window.dispatchEvent( new Event( 'luna:build' ) );
+        } );
+    } );

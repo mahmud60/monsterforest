@@ -1,0 +1,471 @@
+Authorized using stored user info.
+stderr: 'rm' is not recognized as an internal or external command,
+operable program or batch file.
+
+[ Warn ] $Converting Assets/Tap fire_girl1/model/Hair Dark 1.psd texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Tap fire_girl1/model/Face Female 02 Brown 1.psd texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Tap fire_girl1/model/tap Fire 1.psd texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/AUTOFIRE/UI/targetcircle-01.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Looks like bulletPrefab collider on bulletPrefab game object was scaled, this might affect performance.
+[ Warn ] $Converting Assets/electric_ball_edited/ring_2.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Non-repeat wrap mode used on 'ring_2' texture at 'Assets/electric_ball_edited/ring_2.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Converting Assets/electric_ball_edited/point light.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/electric_ball_edited/electric.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/electric_ball_edited/smoke.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Looks like bulletForTrippleShoot collider on bulletForTrippleShoot game object was scaled, this might affect performance.
+[ Warn ] $Failed to process  component on bulletForTrippleShoot (UnityEngine.GameObject)
+[ Warn ] $Looks like bulletShellPrefab collider on bulletShellPrefab game object was scaled, this might affect performance.
+[ Warn ] $Looks like shield collider on shield game object was scaled, this might affect performance.
+[ Warn ] $Looks like shield (1) collider on shield (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like shieldPickup collider on shieldPickup game object was scaled, this might affect performance.
+[ Warn ] $Failed to process  component on shieldPickup (UnityEngine.GameObject)
+[ Warn ] $Failed to process  component on CoinPrefab (UnityEngine.GameObject)
+[ Warn ] $Looks like portalPrefab collider on portalPrefab game object was scaled, this might affect performance.
+[ Warn ] $Converting Assets/AUTOFIRE/UI/groundTex-01-01-01-01.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Looks like CylinderWood1 collider on CylinderWood1 game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood1 (1) collider on CylinderWood1 (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood1 (2) collider on CylinderWood1 (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like GoldPickupPrefab collider on GoldPickupPrefab game object was scaled, this might affect performance.
+[ Warn ] $Looks like SilverPickupPrefab collider on SilverPickupPrefab game object was scaled, this might affect performance.
+[ Warn ] $Looks like DiamondPickupPrefab collider on DiamondPickupPrefab game object was scaled, this might affect performance.
+[ Warn ] $Converting Assets/LUMBERCRAFT/material/metals/texture/diamond-01-01.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Looks like GoldPickupPrefab collider on GoldPickupPrefab game object was scaled, this might affect performance.
+[ Warn ] $Looks like GoldPickupPrefab (1) collider on GoldPickupPrefab (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like GoldPickupPrefab (2) collider on GoldPickupPrefab (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like GoldPickupPrefab (3) collider on GoldPickupPrefab (3) game object was scaled, this might affect performance.
+[ Warn ] $Looks like GoldPickupPrefab (4) collider on GoldPickupPrefab (4) game object was scaled, this might affect performance.
+[ Warn ] $Looks like SilverPickup collider on SilverPickup game object was scaled, this might affect performance.
+[ Warn ] $Looks like SilverPickup collider on SilverPickup game object was scaled, this might affect performance.
+[ Warn ] $Looks like SilverPickup collider on SilverPickup game object was scaled, this might affect performance.
+[ Warn ] $Looks like SilverPickup collider on SilverPickup game object was scaled, this might affect performance.
+[ Warn ] $Looks like SilverPickup collider on SilverPickup game object was scaled, this might affect performance.
+[ Warn ] $Looks like DiamondPickup collider on DiamondPickup game object was scaled, this might affect performance.
+[ Warn ] $Looks like DiamondPickup collider on DiamondPickup game object was scaled, this might affect performance.
+[ Warn ] $Looks like DiamondPickup collider on DiamondPickup game object was scaled, this might affect performance.
+[ Warn ] $Looks like DiamondPickup collider on DiamondPickup game object was scaled, this might affect performance.
+[ Warn ] $Looks like DiamondPickup collider on DiamondPickup game object was scaled, this might affect performance.
+[ Warn ] $Non-repeat wrap mode used on 'bar-01' texture at 'Assets/AUTOFIRE/UI/bar-01.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Converting Assets/LUMBERCRAFT/UI/wood-emoji.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Non-repeat wrap mode used on 'infiniteIcon' texture at 'Assets/0-LumberCraft/Tutorial Swipe/infiniteIcon.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'hand-bend' texture at 'Assets/0-LumberCraft/Tutorial Swipe/hand-bend.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'SWIPE-TO-MOVE' texture at 'Assets/0-LumberCraft/Tutorial Swipe/SWIPE-TO-MOVE.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'swap-to-move-CS' texture at 'Assets/AUTOFIRE/UI/localize/CS/swap-to-move-CS.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'swap-to-move-CT' texture at 'Assets/AUTOFIRE/UI/localize/CT/swap-to-move-CT.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'download-btn' texture at 'Assets/AUTOFIRE/UI/download-btn.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'download-btn-CS' texture at 'Assets/AUTOFIRE/UI/localize/CS/download-btn-CS.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'download-btn-CT' texture at 'Assets/AUTOFIRE/UI/localize/CT/download-btn-CT.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'retrybtn-01' texture at 'Assets/Static-Resources/World Item/retrybtn-01.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'retrybtn-01-CS' texture at 'Assets/AUTOFIRE/UI/localize/CS/retrybtn-01-CS.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'retrybtn-01-CT' texture at 'Assets/AUTOFIRE/UI/localize/CT/retrybtn-01-CT.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Converting Assets/Static-Resources/World Item/fail2-01.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Non-repeat wrap mode used on 'fail2-01' texture at 'Assets/Static-Resources/World Item/fail2-01.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'Mission Faild CS' texture at 'Assets/AUTOFIRE/UI/localize/CS/Mission Faild CS.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'mission failed CT' texture at 'Assets/AUTOFIRE/UI/localize/CT/mission failed CT.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'frame-01' texture at 'Assets/LUMBERCRAFT/UI/frame-01.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'nextbtn-01' texture at 'Assets/Static-Resources/World Item/nextbtn-01.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'nextbtn-01-CS' texture at 'Assets/AUTOFIRE/UI/localize/CS/nextbtn-01-CS.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'nextbtn-01-CT' texture at 'Assets/AUTOFIRE/UI/localize/CT/nextbtn-01-CT.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'fail-01' texture at 'Assets/Static-Resources/World Item/fail-01.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'Mission complete CS' texture at 'Assets/AUTOFIRE/UI/localize/CS/Mission complete CS.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'mission complete CT' texture at 'Assets/AUTOFIRE/UI/localize/CT/mission complete CT.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'play-btn' texture at 'Assets/Static-Resources/World Item/play-btn.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Converting Assets/Static-Resources/World Item/home-btn.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Non-repeat wrap mode used on 'home-btn' texture at 'Assets/Static-Resources/World Item/home-btn.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Converting Assets/Static-Resources/World Item/world-box.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Resources/Images/Fight/Element/LevelBG/fighter-level-element-7.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Non-repeat wrap mode used on 'fighter-level-element-7' texture at 'Assets/Resources/Images/Fight/Element/LevelBG/fighter-level-element-7.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'bg' texture at 'Assets/Static-Resources/World Item/bg.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'enter-btn' texture at 'Assets/Static-Resources/World Item/enter-btn.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Converting Assets/Static-Resources/World Item/lock-layer.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Static-Resources/World Item/world-progress-front.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Non-repeat wrap mode used on 'world-progress-front' texture at 'Assets/Static-Resources/World Item/world-progress-front.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Converting Assets/Static-Resources/World Item/world-progress-back.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Non-repeat wrap mode used on 'world-progress-back' texture at 'Assets/Static-Resources/World Item/world-progress-back.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'room-progress' texture at 'Assets/Static-Resources/World Item/room-progress.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Converting Assets/Static-Resources/SharkIO/UI/VIP/avatar-selected.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Non-repeat wrap mode used on 'avatar-selected' texture at 'Assets/Static-Resources/SharkIO/UI/VIP/avatar-selected.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Converting Assets/Resources/Images/Fight/WinLoose/scorebar-coins.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Non-repeat wrap mode used on 'scorebar-coins' texture at 'Assets/Resources/Images/Fight/WinLoose/scorebar-coins.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'room-box' texture at 'Assets/Static-Resources/World Item/room-box.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'PNFF' texture at 'Assets/POLICE_CHASE/UI/UI/PNFF.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'download-btn' texture at 'Assets/POLICE_CHASE/UI/UI/download-btn.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'logo-tap-fire.-nw2png' texture at 'Assets/AUTOFIRE/UI/logo-tap-fire.-nw2png.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'PNFF-CS' texture at 'Assets/AUTOFIRE/UI/localize/CS/PNFF-CS.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Non-repeat wrap mode used on 'PNFF-CT' texture at 'Assets/AUTOFIRE/UI/localize/CT/PNFF-CT.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Looks like botBomber collider on botBomber game object was scaled, this might affect performance.
+[ Warn ] $Converting Assets/Tap fire_girl1/Monsters Ultimate Pack 03 Cute Series/Mole Rat King Cute Series/Textures/Mole Rat King.psd texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Looks like enemyBulletPrefab collider on enemyBulletPrefab game object was scaled, this might affect performance.
+[ Warn ] $Looks like bomb collider on bomb game object was scaled, this might affect performance.
+[ Warn ] $Converting Assets/Tap fire_girl1/Monsters Ultimate Pack 03 Cute Series/Cactus Boss Cute Series/Textures/Cactus Boss.psd texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Tap fire_girl1/Monsters Ultimate Pack 03 Cute Series/Cactus Boss Cute Series/Textures/Cactus Boss Emission.psd texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Looks like bot_Cloner collider on bot_Cloner game object was scaled, this might affect performance.
+[ Warn ] $Converting Assets/Tap fire_girl1/Monsters Ultimate Pack 03 Cute Series/Skeleton Giant Cute Series/Textures/Skeleton Giant.psd texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Tap fire_girl1/Monsters Ultimate Pack 03 Cute Series/Skeleton Giant Cute Series/Textures/Skeleton Giant Emission.psd texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Failed to process  component on road_m (UnityEngine.GameObject)
+[ Warn ] $Failed to process  component on road_m (UnityEngine.GameObject)
+[ Warn ] $Failed to process  component on road_m (UnityEngine.GameObject)
+[ Warn ] $Looks like CylinderWood1 collider on CylinderWood1 game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood2 collider on CylinderWood2 game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood3 collider on CylinderWood3 game object was scaled, this might affect performance.
+[ Warn ] $Looks like treeTop collider on treeTop game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood1 collider on CylinderWood1 game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood2 collider on CylinderWood2 game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood3 collider on CylinderWood3 game object was scaled, this might affect performance.
+[ Warn ] $Looks like treeTop collider on treeTop game object was scaled, this might affect performance.
+[ Warn ] $Looks like silverMinePrefab collider on silverMinePrefab game object was scaled, this might affect performance.
+[ Warn ] $Converting Assets/LUMBERCRAFT/material/metals/texture/silver1-01.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Looks like goldMinePrefab collider on goldMinePrefab game object was scaled, this might affect performance.
+[ Warn ] $Converting Assets/LUMBERCRAFT/material/metals/texture/gold1-01.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Looks like diamondMinePrefab collider on diamondMinePrefab game object was scaled, this might affect performance.
+[ Warn ] $Looks like road_m collider on road_m game object was scaled, this might affect performance.
+[ Warn ] $Looks like road_m collider on road_m game object was scaled, this might affect performance.
+[ Warn ] $Looks like ground collider on ground game object was scaled, this might affect performance.
+[ Warn ] $Looks like beachWalkable collider on beachWalkable game object was scaled, this might affect performance.
+[ Warn ] $Looks like barrel collider on barrel game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 collider on wood_box_1 game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_2 collider on wood_box_2 game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_2 (1) collider on wood_box_2 (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_2 (2) collider on wood_box_2 (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 (1) collider on wood_box_1 (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 (2) collider on wood_box_1 (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 (3) collider on wood_box_1 (3) game object was scaled, this might affect performance.
+[ Warn ] $Looks like barrel (1) collider on barrel (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like barrel (2) collider on barrel (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_2 (3) collider on wood_box_2 (3) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 (4) collider on wood_box_1 (4) game object was scaled, this might affect performance.
+[ Warn ] $Looks like tree_plateau collider on tree_plateau game object was scaled, this might affect performance.
+[ Warn ] $Looks like tree_plateau (1) collider on tree_plateau (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like tree_plateau (2) collider on tree_plateau (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like tree_plateau (3) collider on tree_plateau (3) game object was scaled, this might affect performance.
+[ Warn ] $Looks like tree_plateau (4) collider on tree_plateau (4) game object was scaled, this might affect performance.
+[ Warn ] $Looks like tree_plateau (5) collider on tree_plateau (5) game object was scaled, this might affect performance.
+[ Warn ] $Looks like tree_plateau (6) collider on tree_plateau (6) game object was scaled, this might affect performance.
+[ Warn ] $Looks like tree_plateau (7) collider on tree_plateau (7) game object was scaled, this might affect performance.
+[ Warn ] $Looks like rock_large3 collider on rock_large3 game object was scaled, this might affect performance.
+[ Warn ] $Looks like rock_large6 collider on rock_large6 game object was scaled, this might affect performance.
+[ Warn ] $Looks like rock_small5 collider on rock_small5 game object was scaled, this might affect performance.
+[ Warn ] $Looks like rock_small5 (1) collider on rock_small5 (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_2 collider on wood_box_2 game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 collider on wood_box_1 game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 (1) collider on wood_box_1 (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_2 (1) collider on wood_box_2 (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 (2) collider on wood_box_1 (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like road_m collider on road_m game object was scaled, this might affect performance.
+[ Warn ] $Looks like road_m collider on road_m game object was scaled, this might affect performance.
+[ Warn ] $Looks like ground collider on ground game object was scaled, this might affect performance.
+[ Warn ] $Looks like beachWalkable collider on beachWalkable game object was scaled, this might affect performance.
+[ Warn ] $Looks like barrel collider on barrel game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 collider on wood_box_1 game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_2 collider on wood_box_2 game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_2 (1) collider on wood_box_2 (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_2 (2) collider on wood_box_2 (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 (1) collider on wood_box_1 (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 (2) collider on wood_box_1 (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 (3) collider on wood_box_1 (3) game object was scaled, this might affect performance.
+[ Warn ] $Looks like barrel (1) collider on barrel (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like barrel (2) collider on barrel (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_2 (3) collider on wood_box_2 (3) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 (4) collider on wood_box_1 (4) game object was scaled, this might affect performance.
+[ Warn ] $Looks like tree_plateau collider on tree_plateau game object was scaled, this might affect performance.
+[ Warn ] $Looks like tree_plateau (1) collider on tree_plateau (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like tree_plateau (2) collider on tree_plateau (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like tree_plateau (3) collider on tree_plateau (3) game object was scaled, this might affect performance.
+[ Warn ] $Looks like tree_plateau (4) collider on tree_plateau (4) game object was scaled, this might affect performance.
+[ Warn ] $Looks like tree_plateau (5) collider on tree_plateau (5) game object was scaled, this might affect performance.
+[ Warn ] $Looks like tree_plateau (6) collider on tree_plateau (6) game object was scaled, this might affect performance.
+[ Warn ] $Looks like tree_plateau (7) collider on tree_plateau (7) game object was scaled, this might affect performance.
+[ Warn ] $Looks like rock_large3 collider on rock_large3 game object was scaled, this might affect performance.
+[ Warn ] $Looks like rock_large6 collider on rock_large6 game object was scaled, this might affect performance.
+[ Warn ] $Looks like rock_small5 collider on rock_small5 game object was scaled, this might affect performance.
+[ Warn ] $Looks like rock_small5 (1) collider on rock_small5 (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 (1) collider on wood_box_1 (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_2 (1) collider on wood_box_2 (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 (2) collider on wood_box_1 (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin collider on Coin game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (1) collider on Coin (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (2) collider on Coin (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (3) collider on Coin (3) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (4) collider on Coin (4) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (5) collider on Coin (5) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (6) collider on Coin (6) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (9) collider on Coin (9) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (10) collider on Coin (10) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (11) collider on Coin (11) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (12) collider on Coin (12) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (13) collider on Coin (13) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (14) collider on Coin (14) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (15) collider on Coin (15) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (16) collider on Coin (16) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (17) collider on Coin (17) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (18) collider on Coin (18) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (19) collider on Coin (19) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (22) collider on Coin (22) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (23) collider on Coin (23) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (24) collider on Coin (24) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (25) collider on Coin (25) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Coin (26) collider on Coin (26) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Cube collider on Cube game object was scaled, this might affect performance.
+[ Warn ] $Looks like Cube (1) collider on Cube (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Cube (1) collider on Cube (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Cube (1) collider on Cube (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Cube (2) collider on Cube (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Cube collider on Cube game object was scaled, this might affect performance.
+[ Warn ] $Looks like Cube (1) collider on Cube (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Cube (2) collider on Cube (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Cube (1) collider on Cube (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Cube collider on Cube game object was scaled, this might affect performance.
+[ Warn ] $Looks like Cube (1) collider on Cube (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Cube collider on Cube game object was scaled, this might affect performance.
+[ Warn ] $Looks like Cube (1) collider on Cube (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Cube (2) collider on Cube (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Cube (3) collider on Cube (3) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Cube (4) collider on Cube (4) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Cube (5) collider on Cube (5) game object was scaled, this might affect performance.
+[ Warn ] $Looks like Cube (6) collider on Cube (6) game object was scaled, this might affect performance.
+[ Warn ] $Looks like bridge collider on bridge game object was scaled, this might affect performance.
+[ Warn ] $Looks like L_side collider on L_side game object was scaled, this might affect performance.
+[ Warn ] $Looks like R_side collider on R_side game object was scaled, this might affect performance.
+[ Warn ] $Looks like road_m collider on road_m game object was scaled, this might affect performance.
+[ Warn ] $Looks like road_m collider on road_m game object was scaled, this might affect performance.
+[ Warn ] $Looks like L_side (1) collider on L_side (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like L_side (2) collider on L_side (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like ground collider on ground game object was scaled, this might affect performance.
+[ Warn ] $Looks like ground collider on ground game object was scaled, this might affect performance.
+[ Warn ] $Looks like beachWalkable collider on beachWalkable game object was scaled, this might affect performance.
+[ Warn ] $Looks like barrel collider on barrel game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 collider on wood_box_1 game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_2 collider on wood_box_2 game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_2 (1) collider on wood_box_2 (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_2 (2) collider on wood_box_2 (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 (1) collider on wood_box_1 (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 (2) collider on wood_box_1 (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 (3) collider on wood_box_1 (3) game object was scaled, this might affect performance.
+[ Warn ] $Looks like barrel (1) collider on barrel (1) game object was scaled, this might affect performance.
+[ Warn ] $Looks like barrel (2) collider on barrel (2) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_2 (3) collider on wood_box_2 (3) game object was scaled, this might affect performance.
+[ Warn ] $Looks like wood_box_1 (4) collider on wood_box_1 (4) game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood1 collider on CylinderWood1 game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood2 collider on CylinderWood2 game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood3 collider on CylinderWood3 game object was scaled, this might affect performance.
+[ Warn ] $Looks like treeTop collider on treeTop game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood1 collider on CylinderWood1 game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood2 collider on CylinderWood2 game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood3 collider on CylinderWood3 game object was scaled, this might affect performance.
+[ Warn ] $Looks like treeTop collider on treeTop game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood1 collider on CylinderWood1 game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood2 collider on CylinderWood2 game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood3 collider on CylinderWood3 game object was scaled, this might affect performance.
+[ Warn ] $Looks like treeTop collider on treeTop game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood1 collider on CylinderWood1 game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood2 collider on CylinderWood2 game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood3 collider on CylinderWood3 game object was scaled, this might affect performance.
+[ Warn ] $Looks like treeTop collider on treeTop game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood1 collider on CylinderWood1 game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood2 collider on CylinderWood2 game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood3 collider on CylinderWood3 game object was scaled, this might affect performance.
+[ Warn ] $Looks like treeTop collider on treeTop game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood1 collider on CylinderWood1 game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood2 collider on CylinderWood2 game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood3 collider on CylinderWood3 game object was scaled, this might affect performance.
+[ Warn ] $Looks like treeTop collider on treeTop game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood1 collider on CylinderWood1 game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood2 collider on CylinderWood2 game object was scaled, this might affect performance.
+[ Warn ] $Looks like CylinderWood3 collider on CylinderWood3 game object was scaled, this might affect performance.
+[ Warn ] $Looks like treeTop collider on treeTop game object was scaled, this might affect performance.
+[ Warn ] $Looks like silverMinePrefab collider on silverMinePrefab game object was scaled, this might affect performance.
+[ Warn ] $Looks like goldMinePrefab collider on goldMinePrefab game object was scaled, this might affect performance.
+[ Warn ] $Looks like diamondMinePrefab collider on diamondMinePrefab game object was scaled, this might affect performance.
+[ Warn ] $Looks like player collider on player game object was scaled, this might affect performance.
+[ Warn ] $Looks like axeCone collider on axeCone game object was scaled, this might affect performance.
+[ Warn ] $Looks like base collider on base game object was scaled, this might affect performance.
+[ Warn ] $Looks like triggerZone collider on triggerZone game object was scaled, this might affect performance.
+[ Warn ] $Non-repeat wrap mode used on 'arrow2-w' texture at 'Assets/LUMBERCRAFT/UI/arrow2-w.png' with non power-of-two dimensions, this might not be rendered correctly.
+[ Warn ] $Converting Assets/LUMBERCRAFT/UI/White Arrow.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Looks like water collider on water game object was scaled, this might affect performance.
+[ Warn ] $Converting Assets/LUMBERCRAFT/material/7.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Looks like underwater collider on underwater game object was scaled, this might affect performance.
+[ Warn ] $Converting Assets/Playable Assets/Light Textures/island-1.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Looks like pCube16 collider on pCube16 game object was scaled, this might affect performance.
+[ Warn ] $Looks like pCube16 collider on pCube16 game object was scaled, this might affect performance.
+[ Warn ] $Looks like pCube16 collider on pCube16 game object was scaled, this might affect performance.
+[ Warn ] $Looks like pCube16 collider on pCube16 game object was scaled, this might affect performance.
+[ Warn ] $Usage of mesh colliders has negative effect on performance. You can use primitive colliders instead.
+Exporting assets from Unity.........................................
+[ Stage1 ] Assets exported from Unity and staged for further processing
+Using D:/GitHub Files/Free Pixel Games LTD/autofire01/Assets/TextMesh Pro/Fonts/LiberationSans.ttf file to generate an atlas for LiberationSans[19650] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Using C:/Windows/Fonts/arial.ttf file to generate an atlas for Arial[546] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Combined 97 glyphs into bitmap texture at D:/GitHub Files/Free Pixel Games LTD/autofire01/LunaTemp/stage1/tmp/fonts/Arial-546/output_0.png (59kb)
+Combined 97 glyphs into bitmap texture at D:/GitHub Files/Free Pixel Games LTD/autofire01/LunaTemp/stage1/tmp/fonts/LiberationSans-19650/output_0.png (56kb)
+Resources:
+{"unity.preloader.icon":"resources/unity.preloader.icon.png"}
+[ Stage2 ] Assets postprocessed and bundled successfully
+Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+Build started 7/1/2021 8:28:43 PM.
+
+Project "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" on node 1 (Rebuild target(s)).
+
+CoreClean:
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.AssemblyReference.cache".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb".
+
+GenerateTargetFrameworkMonikerAttribute:
+Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+
+CoreCompile:
+
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Roslyn\csc.exe /noconfig /nowarn:CS0626,1701,1702 /fullpaths /nostdlib+ /errorreport:prompt /warn:4 /define:UNITY_LUNA;UNITY_BUPC;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_2017_1_OR_NEWER /highentropyva+ /reference:"D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.11-luna\lib\net40\Bridge.dll" /reference:"D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" /reference:"D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" /reference:"D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\DOTween.1.2.235\lib\net40\DOTween.dll" /reference:"D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" /reference:"D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" /reference:"D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" /reference:"D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" /reference:"D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" /reference:"D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\2.0.0\TextMeshPro.dll" /reference:"D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" /reference:"D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" /debug+ /debug:full /optimize- /out:obj\Debug\UnityScriptsCompiler.dll /subsystemversion:6.00 /target:library /utf8output /langversion:7 "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\AUTOFIRE\Scripts\BombController.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\AUTOFIRE\Scripts\BotController.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\AUTOFIRE\Scripts\BotSpawner.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\AUTOFIRE\Scripts\BulletController.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\AUTOFIRE\Scripts\CameraController.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\AUTOFIRE\Scripts\GameManager.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\AUTOFIRE\Scripts\PlayerBullet.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\AUTOFIRE\Scripts\PlayerController.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\AUTOFIRE\Scripts\SoundManager.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\AUTOFIRE\Scripts\UIManager.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_AutoStopLoopedEffect.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_New.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDir.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDirectionTranslate.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RotateCamera.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_Translate.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\JMO Assets\Cartoon FX\Scripts\CFX_AutoDestructShuriken.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\JMO Assets\Cartoon FX\Scripts\CFX_AutoRotate.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\JMO Assets\Cartoon FX\Scripts\CFX_LightFlicker.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\JMO Assets\Cartoon FX\Scripts\CFX_LightIntensityFade.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\LUMBERCRAFT\codes\AnimateTexture.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\LUMBERCRAFT\codes\BuildingController.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\LUMBERCRAFT\codes\Farmable.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\LUMBERCRAFT\codes\PlayerInputController.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\LUMBERCRAFT\codes\TreeController.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\Scripts\LocalizationReplacer.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\Scripts\UI\Panel\PanelSharkWorlds.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\Scripts\UI\SharkWorld\SharkWorldItem.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\Scripts\UI\SharkWorld\SharkWorldProgressItem.cs" "D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\SharedAssets\Scripts\PanelCTA_UI.cs" Properties/AssemblyInfo.cs Sources/OtherDummyScript.cs "obj\Debug\.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+
+D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\AUTOFIRE\Scripts\PlayerController.cs(16,10): warning CS0169: The field 'PlayerController.tapped' is never used [D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\SharedAssets\Scripts\PanelCTA_UI.cs(20,37): warning CS0649: Field 'PanelCTA_UI.btnDownload' is never assigned to, and will always have its default value null [D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\AUTOFIRE\Scripts\SoundManager.cs(10,42): warning CS0649: Field 'SoundManager.backgroundAudioSource' is never assigned to, and will always have its default value null [D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\Scripts\UI\SharkWorld\SharkWorldProgressItem.cs(29,12): warning CS0169: The field 'SharkWorldProgressItem.sprite2' is never used [D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\Scripts\UI\SharkWorld\SharkWorldProgressItem.cs(28,12): warning CS0169: The field 'SharkWorldProgressItem.sprite1' is never used [D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\SharedAssets\Scripts\PanelCTA_UI.cs(21,37): warning CS0169: The field 'PanelCTA_UI.btnRetry' is never used [D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\Scripts\UI\SharkWorld\SharkWorldProgressItem.cs(23,27): warning CS0649: Field 'SharkWorldProgressItem.rewardAmount2' is never assigned to, and will always have its default value 0 [D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  CompilerServer: server - server processed compilation - 16ee42ce-61f8-4cb9-a7b5-162f7ec8a427
+
+_CopyFilesMarkedCopyLocal:
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\DOTween.1.2.235\lib\net40\DOTween.dll" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.11-luna\lib\net40\Bridge.dll" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\2.0.0\TextMeshPro.dll" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.11-luna\lib\net40\Bridge.xml" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.xml" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.xml" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.xml" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.xml" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.xml" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.xml" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.xml" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Creating "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete" because "AlwaysCreate" was specified.
+
+CopyFilesToOutputDirectory:
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Scripts -> D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+
+  Copying file from "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" to "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+BridgeNetCompilerTask:
+  Bridge started
+
+      To enable detailed logging, configure "logging" in bridge.json.
+      https://github.com/bridgedotnet/Bridge/wiki/global-configuration#logging
+
+  Bridge done
+
+Done Building Project "D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild target(s)).
+
+
+
+Build succeeded.
+
+
+
+"D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild target) (1) ->
+(CoreCompile target) -> 
+  D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\AUTOFIRE\Scripts\PlayerController.cs(16,10): warning CS0169: The field 'PlayerController.tapped' is never used [D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\SharedAssets\Scripts\PanelCTA_UI.cs(20,37): warning CS0649: Field 'PanelCTA_UI.btnDownload' is never assigned to, and will always have its default value null [D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\AUTOFIRE\Scripts\SoundManager.cs(10,42): warning CS0649: Field 'SoundManager.backgroundAudioSource' is never assigned to, and will always have its default value null [D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\Scripts\UI\SharkWorld\SharkWorldProgressItem.cs(29,12): warning CS0169: The field 'SharkWorldProgressItem.sprite2' is never used [D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\Scripts\UI\SharkWorld\SharkWorldProgressItem.cs(28,12): warning CS0169: The field 'SharkWorldProgressItem.sprite1' is never used [D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\SharedAssets\Scripts\PanelCTA_UI.cs(21,37): warning CS0169: The field 'PanelCTA_UI.btnRetry' is never used [D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\GitHub Files\Free Pixel Games LTD\autofire01\Assets\Scripts\UI\SharkWorld\SharkWorldProgressItem.cs(23,27): warning CS0649: Field 'SharkWorldProgressItem.rewardAmount2' is never assigned to, and will always have its default value 0 [D:\Working_Files\Game_Development_Files\Unity3D\Important Assets\API\Luna playable\1.12.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+    7 Warning(s)
+    0 Error(s)
+
+
+Time Elapsed 00:00:07.30
+
+Source code compiled successfully!
+[ Stage3 ] Code compiled and bundled successfully.
+[ Stage4 ] Target platform: playground
+[ Stage4 ] Package bundled successfully
+[ Stage4 ] Package uploaded successfully

@@ -1,0 +1,12 @@
+- var GZIP_COMPRESSION = 1;
+
+if compress && compress.enabled
+    if compress.type == GZIP_COMPRESSION
+        include compress_gzip
+    else
+        include compress_brotli
+else
+    script.
+        window.addEventListener( 'DOMContentLoaded', function() {
+            window.dispatchEvent( new Event( 'luna:build' ) );
+        } );

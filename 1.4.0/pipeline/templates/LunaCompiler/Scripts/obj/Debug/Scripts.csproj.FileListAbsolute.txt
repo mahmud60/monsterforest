@@ -1,0 +1,238 @@
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityScriptsCompiler.dll
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityScriptsCompiler.pdb
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.dll
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.Html5.dll
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.WebGL.dll
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/DOTween.dll
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Newtonsoft.Json.dll
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.Core.dll
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.dom.dll
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.es5.dll
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.scripthost.dll
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityEngine.dll
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityEngine.UI.dll
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.xml
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.Html5.xml
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.WebGL.xml
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Newtonsoft.Json.xml
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.Core.xml
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.dom.xml
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.es5.xml
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.scripthost.xml
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/Scripts.csprojAssemblyReference.cache
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/Scripts.csproj.CoreCompileInputs.cache
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/Scripts.csproj.CopyComplete
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/UnityScriptsCompiler.dll
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/UnityScriptsCompiler.pdb
+/Users/mac_pro/Desktop/Amanulla/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Cinemachine.dll
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityScriptsCompiler.dll
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityScriptsCompiler.pdb
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.dll
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.Html5.dll
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.WebGL.dll
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Cinemachine.dll
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/DOTween.dll
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Newtonsoft.Json.dll
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.Core.dll
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.dom.dll
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.es5.dll
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.scripthost.dll
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityEngine.dll
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityEngine.UI.dll
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.xml
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.Html5.xml
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.WebGL.xml
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Newtonsoft.Json.xml
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.Core.xml
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.dom.xml
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.es5.xml
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.scripthost.xml
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/Scripts.csprojAssemblyReference.cache
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/Scripts.csproj.CoreCompileInputs.cache
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/Scripts.csproj.CopyComplete
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/UnityScriptsCompiler.dll
+/Users/mac_pro/Desktop/Amanulla/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/UnityScriptsCompiler.pdb
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityScriptsCompiler.dll
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityScriptsCompiler.pdb
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.dll
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.Html5.dll
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.WebGL.dll
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/DOTween.dll
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Newtonsoft.Json.dll
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.Core.dll
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.dom.dll
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.es5.dll
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.scripthost.dll
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityEngine.dll
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityEngine.UI.dll
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.xml
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.Html5.xml
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.WebGL.xml
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Newtonsoft.Json.xml
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.Core.xml
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.dom.xml
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.es5.xml
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.scripthost.xml
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/Scripts.csprojAssemblyReference.cache
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/Scripts.csproj.CoreCompileInputs.cache
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/Scripts.csproj.CopyComplete
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/UnityScriptsCompiler.dll
+/Users/minhazfpgl/Desktop/Unity/lunaplayable02/1.4.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/UnityScriptsCompiler.pdb
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csprojAssemblyReference.cache
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll
+E:\unityworks\FPG\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csprojAssemblyReference.cache
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayable02\lunaplayable02\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csprojAssemblyReference.cache
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll
+D:\UNITY_PROJECTS\2021\MAR21\lunaplayablePVT01\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csprojAssemblyReference.cache
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll
+D:\UNITY_PROJECTS\2021\APR21\lunaplayablepvt01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csprojAssemblyReference.cache
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml
+D:\UNITY_PROJECTS\2021\MAY21\autofireplayable01\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csprojAssemblyReference.cache
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll
+D:\FPG projects\autofire01\1.4.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb

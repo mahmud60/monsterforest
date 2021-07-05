@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "probe-image-size": "^5.0.0"
+  }
+}

@@ -1,0 +1,1 @@
+[{"src":"script1.js","priority":1},{"src":"script3.js","priority":3},{"src":"physics3d-0.js","priority":0,"ifModule":"physics3d"},{"src":"physics3d-0-stub.js","priority":0,"unlessModule":"physics3d"},{"src":"physics2d-0.js","priority":0,"ifModule":"physics2d"},{"src":"physics2d-0-stub.js","priority":0,"unlessModule":"physics2d"}]

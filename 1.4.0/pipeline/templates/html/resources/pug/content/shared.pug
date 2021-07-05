@@ -1,0 +1,99 @@
+script.
+    ( function () {
+        // the flag to store start game status to avoid double loads
+        // in some ad networks
+        var _startGame = false;
+        // the flag indicating the game has completed startup sequence successfully
+        var _startedGame = false;
+        // the queue on unsafe events to re-trigger once the game starts
+        var _unsafeEvents = [];
+
+        // the routine that runs the startup sequence and makes sure startGame()
+        // callback is invoked only once
+        var startGameOnce = function () {
+            // check that the game has not started yet
+            if ( _startGame ) {
+                return;
+            }
+
+            // mark the game as started
+            _startGame = true;
+
+            if ( window.pi ) {
+                // load 'starting' event
+                window.pi.logStarting();
+            }
+
+            var callback = function() {
+                // run the startup
+                var result = window.startGame();
+
+                // check if it returned a promise
+                if ( result && result.then ) {
+                    // it is - await till it resolves
+                    result.then( function () { window.dispatchEvent( new Event( 'luna:started' ) ); } )
+                } else {
+                    // it is not - probably synchronous startup in effect?
+                    window.dispatchEvent( new Event( 'luna:started' ) );
+                }
+            };
+
+            if ( window.pi ) {
+                // make sure PI is ready (i.e. config is fetched or timed out, initialization is complete etc)
+                window.pi.ready( callback );
+            } else {
+                callback();
+            }
+        };
+
+        window.addEventListener( 'luna:unsafe:mute', function () {
+            if ( _startedGame ) {
+                window.dispatchEvent( new Event( 'luna:mute' ) );
+            } else {
+                _unsafeEvents.push( 'luna:mute' );
+            }
+        } );
+
+        window.addEventListener( 'luna:unsafe:unmute', function () {
+            if ( _startedGame ) {
+                window.dispatchEvent( new Event( 'luna:unmute' ) );
+            } else {
+                _unsafeEvents.push( 'luna:unmute' );
+            }
+        } );
+
+        window.addEventListener( 'luna:resume', function () {
+            startGameOnce();
+        } );
+
+        window.addEventListener( 'luna:start', function () {
+            startGameOnce();
+        } );
+
+        window.addEventListener( 'luna:started', function () {
+            _startedGame = true;
+            
+            _unsafeEvents.forEach( function( eventName ) { window.dispatchEvent( new Event( eventName ) ) } );
+            _unsafeEvents.length = 0;
+
+            if ( !window.pi ) {
+                return;
+            }
+
+            if ( window.app && window.app.app ) {
+                window.pi.attachTo( window.app.app );
+            }
+
+            window.pi.logStarted();
+        } );
+
+        window.addEventListener( 'luna:build', function() {
+            Bridge.ready( function() {
+                if ( window.pi ) {
+                    Luna.Unity.LifeCycle.GameEnded = Luna.Unity.LifeCycle.GameEnded || window.pi.logGameEnd.bind( window.pi );
+                    Luna.Unity.Analytics.LogEvent$1 = window.pi.logCustomEvent.bind( window.pi );
+                }
+            } );
+        } );
+    } )();
+    

@@ -1,0 +1,41 @@
+script.
+    function orientationChangeHandler() {
+    }
+
+    function viewableChangeHandler( viewable ) {
+        window.dispatchEvent( new Event( viewable ? 'luna:resume' : 'luna:pause' ) );
+    }
+
+    function audioVolumeChangeHandler( volume ) {
+        window.dispatchEvent( new Event( !!volume ? 'luna:unsafe:unmute' : 'luna:unsafe:mute' ) );
+    }
+
+    var mraidIsReady = ( function() {
+        if ( typeof mraid !== 'undefined' ) {
+            mraid.removeEventListener( "ready", mraidIsReady );
+
+            mraid.addEventListener( 'viewableChange', viewableChangeHandler );
+            mraid.addEventListener( 'orientationchange', orientationChangeHandler );
+            mraid.addEventListener( 'audioVolumeChange', audioVolumeChangeHandler );
+
+            if ( mraid.isViewable() ) {
+                window.dispatchEvent( new Event( 'luna:start' ) );
+            }
+        } else {
+            window.dispatchEvent( new Event( 'luna:start' ) );
+        }
+    } );
+
+    window.addEventListener( 'luna:build', function() {
+        window.pi.logLoaded();
+
+        if ( typeof mraid !== 'undefined' ) {
+            if ( mraid.getState() === 'loading' ) {
+                mraid.addEventListener( "ready", mraidIsReady );
+            } else {
+                mraidIsReady();
+            }
+        } else {
+            window.dispatchEvent( new Event( 'luna:start' ) );
+        }
+    } );

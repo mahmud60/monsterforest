@@ -1,0 +1,177 @@
+{
+    "version": "1.12.0",
+    "packageId": "com.fpg.tapfire",
+    "pgServer": "EU",
+    "unity": {
+        "scripts": {
+            "excludes": [
+                "Assets/AnimationBaker/",
+                "**/Editor/",
+                "**/Luna/RuntimeScripts/"
+            ],
+            "useMSBuild": true,
+            "msbuildMac64": "/Library/Frameworks/Mono.framework/Versions/Current/bin/msbuild",
+            "msbuildWin64": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe",
+            "externalSources": [],
+            "externalJSLibraries": [],
+            "scriptingDefines": []
+        },
+        "assets": {
+            "export": [],
+            "excludes": [
+                "**/Editor/"
+            ],
+            "includes": []
+        },
+        "scenes": [
+            "Assets/Scenes/GameScene.unity"
+        ],
+        "startupScene": 0,
+        "alphabeticalScenesOrder": false,
+        "packages": {
+            "default": {
+                "applicationName": "Monster Forest 3D",
+                "iosLink": "https://apps.apple.com/cn/app/id1553468450",
+                "androidLink": "https://play.google.com/store/apps/details?id=com.funvai.tapfire",
+                "orientation": "unspecified",
+                "languages": [
+                    "en"
+                ]
+            },
+            "develop": {
+                "email": "",
+                "signature": ""
+            },
+            "ironsource": {
+                "applicationGenre": "",
+                "versionName": "",
+                "apiType": 0,
+                "playableMode": 0,
+                "packageType": 0
+            },
+            "facebook": {
+                "assetID": "",
+                "packageType": 0
+            }
+        },
+        "preloader": {
+            "active": true,
+            "icon": "Assets/AUTOFIRE/UI/logo-tap-fire-new.png",
+            "background": ""
+        },
+        "autoInstantiatePrefabs": true,
+        "removeShadows": false,
+        "minify": true,
+        "compressResources": true,
+        "compressType": 0,
+        "eliminateDeadCode": false,
+        "genericCheck": false,
+        "disableAntiAliasing": true,
+        "forceStableRandomSeed": false,
+        "roots": [
+            "UnityEngine.Physics",
+            "UnityEngine.EventSystems.PointerEventData",
+            "UnityEngine.UI.GraphicRaycaster",
+            "LunaUnity.Objects.Handlers.Base",
+            "UnityEngine.UI.RawImage",
+            "UnityEngine.UI.Image",
+            "UnityEngine.UI.Text",
+            "UnityEngine.CanvasGroup",
+            "Luna.Unity.Playable",
+            "UnityEngine.Time",
+            "UnityEngine.LayerMask",
+            "UnityEngine.SceneManagement.LoadSceneMode",
+            "UnityEngine.LightmapSettings",
+            "UnityEngine.EventSystems.IPointerEnterHandler",
+            "UnityEngine.EventSystems.IPointerExitHandler",
+            "UnityEngine.EventSystems.IPointerDownHandler",
+            "UnityEngine.EventSystems.IPointerUpHandler",
+            "UnityEngine.EventSystems.IPointerClickHandler",
+            "UnityEngine.EventSystems.IScrollHandler",
+            "UnityEngine.EventSystems.IBeginDragHandler",
+            "UnityEngine.EventSystems.IDragHandler",
+            "UnityEngine.EventSystems.IEndDragHandler",
+            "UnityEngine.RigidbodyConstraints2D",
+            "UnityEngine.RigidbodyType2D",
+            "UnityEngine.Collision2D",
+            "UnityEngine.Rendering.CompareFunction",
+            "Luna.Unity.DTO.UnityEngine.Assets.Shader+ShaderParameterType",
+            "UnityEngine.Rendering.CullMode",
+            "UnityEngine.Rendering.BlendMode",
+            "UnityEngine.Rendering.BlendOp",
+            "UnityEngine.TextAsset",
+            "UnityEngine.Rendering.StencilOp",
+            "TMPro._HorizontalAlignmentOptions",
+            "TMPro.TagUnits"
+        ],
+        "excludedModules": [],
+        "stubberDataList": [],
+        "stubberData": {
+            "SDKName": "",
+            "Namespace": "",
+            "className": "",
+            "buildPlatform": "",
+            "enabled": false
+        },
+        "playerPrefs": true
+    },
+    "assets": {
+        "rules": {
+            "texture": {
+                "default": {
+                    "maxWidth": 256,
+                    "maxHeight": 256,
+                    "format": "default",
+                    "compression": "none",
+                    "quality": 80,
+                    "script": "",
+                    "ext": ""
+                },
+                "overrides": []
+            },
+            "sound": {
+                "default": {
+                    "channels": 1,
+                    "bitrate": 32,
+                    "script": "",
+                    "ext": ""
+                },
+                "overrides": []
+            },
+            "font": {
+                "default": {
+                    "data": {
+                        "alphabet": " §1234567890-=qwertyuiop[]asdfghjkl;'\\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:\"|~ZXCVBNM<>?",
+                        "size": 64,
+                        "textureWidth": 1024,
+                        "textureHeight": 1024
+                    }
+                },
+                "overrides": []
+            },
+            "shader": {
+                "default": {
+                    "data": {
+                        "programs": [],
+                        "passes": [],
+                        "vp": [],
+                        "fp": []
+                    }
+                },
+                "overrides": []
+            },
+            "meshes": {
+                "default": {
+                    "halfPrecision": true
+                },
+                "overrides": []
+            },
+            "animations": {
+                "default": {
+                    "halfPrecision": true
+                },
+                "overrides": []
+            }
+        }
+    }
+}

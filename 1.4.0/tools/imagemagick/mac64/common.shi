@@ -1,0 +1,25 @@
+# -*- shell-script -*-
+# Copyright 1999-2018 ImageMagick Studio LLC
+# Definitions of optional features and configuration values for this build.
+# Intended for use by test scripts.
+MAGICK_FEATURES='DPC Cipher'
+top_srcdir='/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64'
+top_builddir='/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64'
+
+set -a
+COMPARE="/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64/utilities/compare"
+COMPOSITE="/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64/utilities/composite"
+CONJURE="/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64/utilities/conjure"
+CONVERT="/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64/utilities/convert"
+DISPLAY="/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64/utilities/display"
+IDENTIFY="/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64/utilities/identify"
+MONTAGE="/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64/utilities/montage" 
+VALIDATE="/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64/tests/validate"
+DRAWTEST="/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64/tests/drawtest"
+WANDTEST="/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64/tests/wandtest"
+LD_LIBRARY_PATH="/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64/magick/.libs:/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64/wand/.libs:${LD_LIBRARY_PATH}"
+MAGICK_CODER_MODULE_PATH="/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64/coders"
+MAGICK_CONFIGURE_PATH="/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64/config:/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64/config"
+MAGICK_FILTER_MODULE_PATH="/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64/filters"
+PATH="/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64/utilities:/Users/stepanberesnev/Work/voodoo-windrider/luna/tools/imagemagick/mac64/tests:${PATH}"
+set +a

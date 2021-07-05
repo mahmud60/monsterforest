@@ -1,0 +1,21 @@
+if preloader && preloader.active
+    style
+        include ../css/preloader.css
+
+    #application-preloader.preloader
+        span.preloader__logo
+            span Powered&nbsp;By
+            include ../img/luna_logo.svg
+        if preloader.background
+            img.preloader__background( src=preloader.background )
+        .preloader__wrapper
+            .preloader__circle
+                if preloader.icon
+                    img.preloader__icon( src=preloader.icon )
+                else
+                    div.preloader__placeholder
+
+                svg.preloader-ring( width='160', height='160' )
+                    circle.preloader-ring__circle( stroke='white', stroke-width='10', fill='transparent', r='70', cx='80', cy='80' )
+            if package.applicationName
+                span.preloader__title #{ package.applicationName }

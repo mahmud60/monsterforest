@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuremap [
+  <!ELEMENT configuremap (configure)+>
+  <!ATTLIST configuremap xmlns CDATA #FIXED ''>
+  <!ELEMENT configure EMPTY>
+  <!ATTLIST configure xmlns CDATA #FIXED '' name NMTOKEN #REQUIRED
+    value CDATA #REQUIRED>
+]>
+<!--
+  ImageMagick build configuration.
+-->
+<configuremap>
+  <configure name="CC" value="gcc"/>
+  <configure name="CFLAGS" value="-I/usr/local/Cellar/libpng/1.6.36/include/libpng16 -I/usr/local/Cellar/xz/5.2.4/include -I/usr/local/Cellar/openjpeg/2.3.0/include/openjpeg-2.3    -g -O2 -Wall -mtune=core2 -fexceptions -D_FORTIFY_SOURCE=0 -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16"/>
+  <configure name="CODER_PATH" value="/usr/local/lib/ImageMagick-6.9.10/modules-Q16/coders"/>
+  <configure name="CONFIGURE_PATH" value="/usr/local/etc/ImageMagick-6/"/>
+  <configure name="CONFIGURE" value="./configure  '--disable-docs' '--without-libomp' '--without-libtiff' '--without-libtool' '--without-little-cms2' '--without-threads' '--without-magick-plus-plus' '--without-zstd' '--without-dps' '--without-fftw' '--without-flif' '--without-fpx' '--without-djvu' '--without-fontconfig' '--without-freetype' '--without-raqm' '--without-heic' '--without-jbig' '--without-lcms' '--without-lqr' '--without-openexr' '--without-pango' '--without-raw' '--without-tiff' '--without-webp' '--without-xml' '--enable-shared=no' '--disable-shared' '--enable-static'"/>
+  <configure name="COPYRIGHT" value="Copyright (C) 1999-2018 ImageMagick Studio LLC"/>
+  <configure name="CPPFLAGS" value="-I/usr/local/include/ImageMagick-6"/>
+  <configure name="CXXFLAGS" value="-g -O2"/>
+  <configure name="CXX" value="g++"/>
+  <configure name="DEFS" value="-DHAVE_CONFIG_H"/>
+  <configure name="DELEGATES" value="bzlib mpeg jng jpeg lzma openjp2 png zlib"/>
+  <configure name="DISTCHECK_CONFIG_FLAGS" value=" --disable-deprecated  --with-quantum-depth=16  --with-jemalloc=no  --with-umem=no  --with-zstd=no  --with-autotrace=no  --with-dps=no  --with-fftw=no  --with-flif=no  --with-fpx=no  --with-djvu=no  --with-fontconfig=no  --with-freetype=no  --with-raqm=no  --with-gslib=no  --with-fontpath=  --with-heic=no  --with-lcms=no  --with-lqr=no  --with-openexr=no  --with-pango=no  --with-libraw=no  --with-rsvg=no  --with-tiff=no  --with-webp=no  --with-xml=no  --with-perl=no "/>
+  <configure name="DOCUMENTATION_PATH" value="/usr/local/share/doc/ImageMagick-6"/>
+  <configure name="EXEC-PREFIX" value="/usr/local"/>
+  <configure name="EXECUTABLE_PATH" value="/usr/local/bin"/>
+  <configure name="FEATURES" value="DPC Cipher"/>
+  <configure name="FILTER_PATH" value="/usr/local/lib/ImageMagick-6.9.10/modules-Q16/filters"/>
+  <configure name="GIT_REVISION" value="13944" />
+  <configure name="HOST" value="x86_64-apple-darwin18.2.0"/>
+  <configure name="INCLUDE_PATH" value="/usr/local/include/ImageMagick-6"/>
+  <configure name="LDFLAGS" value="-L/usr/local/lib "/>
+  <configure name="LIBRARY_PATH" value="/usr/local/lib/ImageMagick-6.9.10"/>
+  <configure name="LIBS" value="      -ljpeg   -L/usr/local/Cellar/libpng/1.6.36/lib -lpng16 -lz                -L/usr/local/Cellar/xz/5.2.4/lib -llzma -lbz2  -L/usr/local/Cellar/openjpeg/2.3.0/lib -lopenjp2      -lz     -lm     MAGICK_EXTRA_DEP_LIBS"/>
+  <configure name="LIB_VERSION_NUMBER" value="6,9,10,14"/>
+  <configure name="LIB_VERSION" value="0x69A"/>
+  <configure name="NAME" value="ImageMagick"/>
+  <configure name="PCFLAGS" value="-DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16"/>
+  <configure name="PREFIX" value="/usr/local"/>
+  <configure name="QuantumDepth" value="16"/>
+  <configure name="RELEASE_DATE" value="2019-01-29"/>
+  <configure name="SHAREARCH_PATH" value="/usr/local/lib/ImageMagick-6.9.10/config-Q16"/>
+  <configure name="SHARE_PATH" value="/usr/local/share/ImageMagick-6"/>
+  <configure name="TARGET_CPU" value="x86_64"/>
+  <configure name="TARGET_OS" value="darwin18.2.0"/>
+  <configure name="TARGET_VENDOR" value="apple"/>
+  <configure name="VERSION" value="6.9.10"/>
+  <configure name="WEBSITE" value="https://imagemagick.org"/>
+</configuremap>
